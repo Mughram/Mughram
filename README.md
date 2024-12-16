@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mughram
-- 👀 I’m interested in SWE
-- 🌱 I’m currently learning CS
+- 👀 I’m interested in Web and SWE
+- 🌱 I’m currently learning FULL-STACK
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ? Dont know ;)
 - 😄 Pronouns: 
