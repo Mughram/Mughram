@@ -1,5 +1,5 @@
 <h1> Mughram </h1>
-"I am Mughram Ayashi, a Computer Science student focusing on Web Development. My strong passion for learning drives me to become a great Software Engineer as soon as possible."
+"I like Software Engineering and AI"
 <hr>
 <h2>Languages && Tools</h2>
     <img alt="Java" align = "left" style = "padding-right:30px"  width=65px  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />     
