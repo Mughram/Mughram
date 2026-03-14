@@ -12,6 +12,16 @@
     <br>
     <br>
     <hr>
+    <br>
+    <h2>Also I use </h2>
+    <img alt="Java" align = "left" style = "padding-right:30px"  width=65px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+    <img alt="Python" align = "left" style = "padding-right:30px"  width=65px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+    <img alt="PHP" align = "left" style = "padding-right:30px"  width=65px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+    <img alt="MySQL" align = "left" style = "padding-right:30px"  width=65px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+    <br>
+    <br>
+    <hr>
+    
     
 
 
