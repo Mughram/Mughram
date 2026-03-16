@@ -1,9 +1,10 @@
 <div align="center">
-<h1>𝑴𝒖𝒈𝒉𝒓𝒂𝒎</h1>
+  <h1>𝑴𝒖𝒈𝒉𝒓𝒂𝒎 <img width="30px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGE5OWRjaTR1dDdkaHZmZWJpeTVqbXVhY25jMDBncHh2bG1oMjZraSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qGvmdlfJ0FtBSwxqA3/giphy.gif"/></h1>
 
-<a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=3D61BB&background=FFFFFF00&vCenter=true&width=435&lines=Under+Construction....+Soon" alt="Typing SVG" /></a>
-<hr>
-<h2>Frontend Web Development Stack</h2>
+  <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=3D61BB&background=FFFFFF00&vCenter=true&width=435&lines=Under+Construction....+Soon" alt="Typing SVG" /></a>
+  <p> <b>Hi, I am Mugharm a CS student learning Software Engineering and currently focusing on Web Development</b></p>
+  <hr>
+  <h2>Frontend Web Development Stack</h2>
     <br>
     <br>
     <img alt="HTML" width=65px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" />
