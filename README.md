@@ -4,7 +4,7 @@
   <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=3D61BB&background=FFFFFF00&vCenter=true&width=435&lines=Under+Construction....+Soon" alt="Typing SVG" /></a>
   <p> <b>Hi, I am Mugharm a CS student learning Software Engineering and currently focusing on Web Development</b></p>
   <hr>
-  <h2>Frontend Web Development Stack</h2>
+  <h2>Tools I Use</h2>
     <br>
     <br>
     <img alt="HTML" width=65px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" />
@@ -12,14 +12,14 @@
     <img alt="JavaScript" width=65px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
     <img alt="TypeScript" width=65px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
     <img alt="React" width=65px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-    <img alt="Tailwind CSS" width=65px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />  
+    <img alt="Tailwind CSS" width=65px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+    <img alt="Python" width=65px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
     <img alt="Git" width=65px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
     <br>
     <br>
     <hr>
     <h2>Intresting Tools</h2>
     <img alt="Java" width=65px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-    <img alt="Python" width=65px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
     <img alt="PHP" width=65px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
     <img alt="MySQL" width=65px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"/>
     <br>
