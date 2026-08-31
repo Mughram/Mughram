@@ -51,8 +51,6 @@ alt="Typing SVG"
 &nbsp;&nbsp;
 <img alt="Git" title="Git" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 &nbsp;&nbsp;
-<img alt="GitHub" title="GitHub" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
-&nbsp;&nbsp;
 <img alt="Linux" title="Linux" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
 &nbsp;&nbsp;
 <img alt="Vite" title="Vite" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" />
