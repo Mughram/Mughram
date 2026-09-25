@@ -23,7 +23,7 @@ alt="Typing SVG"
 * 🎓 Computer Science student
 * ⚛️ Frontend Developer using **React, TypeScript and Tailwindcss**
 * ⚙️ Expanding into **Backend Engineering and Databases**
-* 🤖 Interested in **AI, Automation and Business **
+* 🤖 Interested in **AI, Automation and Business**
 
 ---
 
