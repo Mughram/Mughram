@@ -21,7 +21,7 @@ alt="Typing SVG"
 ### 👨‍💻 About Me
 
 * 🎓 Computer Science student
-* ⚛️ Currently focused on **React, TypeScript and modern Frontend Development**
+* ⚛️ Frontend Developer using **React, TypeScript and Tailwindcss**
 * ⚙️ Expanding into **Backend Engineering and Databases**
 * 🤖 Interested in **AI, Automation and building useful software**
 
